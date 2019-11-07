@@ -1,0 +1,9 @@
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\bin\Release\MegalabClient.exe.config
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\bin\Release\MegalabClient.exe
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\bin\Release\MegalabClient.pdb
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\obj\Release\MegalabClient.csprojAssemblyReference.cache
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\obj\Release\MegalabClient.Form1.resources
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\obj\Release\MegalabClient.Properties.Resources.resources
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\obj\Release\MegalabClient.csproj.GenerateResource.cache
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\obj\Release\MegalabClient.exe
+D:\work\Demo\MegalabTest\MegalabClient\MegalabClient\obj\Release\MegalabClient.pdb
